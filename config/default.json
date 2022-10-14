@@ -1,5 +1,5 @@
 {
     "PORT": 9072,
-    "DB_URL": "mongodb://localhost:27017/koinx",
+    "DB_URL": "mongodb+srv://sahil597:iadlNbLBvcQruaU8@koinx.i2iiti7.mongodb.net/?retryWrites=true&w=majority",
     "API_KEY": "TP16QCTNAXVTF8ZY54IV7P6YHEWASI7U34"
 }
